@@ -1,0 +1,9 @@
+{
+  "name": "JATIN Daily Tracker",
+  "short_name": "JATIN Tracker",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b0e16",
+  "theme_color": "#10131d",
+  "description": "Daily timetable, checklist, streaks and progress reports."
+}
